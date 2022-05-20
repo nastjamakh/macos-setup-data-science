@@ -10,7 +10,7 @@ brew tap homebrew/services
 brew tap jondot/tap
 
 # Install Java as dependency
-brew cask install java
+brew install --cask java
 
 ##########################
 ###### System Tools ######

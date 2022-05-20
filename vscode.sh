@@ -1,3 +1,5 @@
+#!/bin/sh
+
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension casualjim.gotemplate
 code --install-extension ecmel.vscode-html-css

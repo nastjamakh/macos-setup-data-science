@@ -18,7 +18,6 @@ brew install --cask xquartz
 brew install --cask dbeaver-community                               # SQL client
 brew install --cask miniforge                                       # Minimalistic conda installer
 brew install --cask devutils                                        # 
-brew install --cask raycast                                         # Spotlight replacement
 brew install --cask visual-studio-code                              # IDE
 brew install --cask postman                                         # HTTP requests
 brew install --cask authy                                           # Authentificator app
@@ -30,8 +29,7 @@ brew install --cask hugo                                            # Static sit
 
 brew install --cask raycast                                         # Spotlight replacement
 brew install --cask google-chrome
-brew install --cask pdf-expert
-brew install --cask 1password
+brew install --cask 1password                                       # Password manager
 brew install --cask bartender
 brew install --cask the-unarchiver
 brew install --cask vlc
